@@ -1,0 +1,10 @@
+D:\work\code\patternlearning\factory\caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\work\code\patternlearning\factory\caculator\Caculator\bin\Debug\Caculator.exe
+D:\work\code\patternlearning\factory\caculator\Caculator\bin\Debug\Caculator.pdb
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.exe
+D:\work\code\patternlearning\factory\caculator\Caculator\obj\Debug\Caculator.pdb
